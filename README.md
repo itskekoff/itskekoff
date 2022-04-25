@@ -1,7 +1,5 @@
 <h1 align="center">Привет, я itskekoff</h1>
 <h3 align="center">Я frontend девелопер. Люблю какиш.</h3>
-
-- ⚡ Интересный факт **Я фурри.**
 <p align="left">
 </p>
 
